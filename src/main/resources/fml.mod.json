@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "funnier-mite",
+	"version": "${version}",
+	"depends": {
+		"many-lib": ">=2.0.0",
+		"fishmodloader": ">=3.3.0"
+	},
+	"environment": "*",
+	"name": "FunnierMITE",
+	"description": "对游戏做出趣味的调整！一个精彩的挑战由你而生！",
+	"authors": ["mgdcm"],
+	"entrypoints": {
+		"main": [
+			"com.mgdcm.FunnierMITE.Start"
+		]
+	},
+	"mixins": [
+		"funniermite.mixins.json"
+	]
+}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fml-loom-0.1.local-repo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fml-loom-0.1.local-repo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+{
+  "Values": {
+    "瞬息万变": {
+      "value": 16,
+      "useSlider": true,
+      "comment": "时间流逝速度倍速"
+    }
+  }
+}

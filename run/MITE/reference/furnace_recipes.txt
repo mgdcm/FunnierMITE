@@ -1,0 +1,31 @@
+Furnace Recipes
+---------------
+沙子 x4 @ 1 = 沙岩 (Masonry)
+沙子 x4 @ 2 = 玻璃 (Masonry)
+金矿石 @ 2 = 金锭 (Mining)
+铁矿石 @ 2 = 铁锭 (Mining)
+煤矿石 @ 1 = 煤炭 (Mining)
+原木 @ 1 = 木炭
+青金石矿石 @ 2 = 青金石 x4 (Mining)
+沙岩 @ 2 = 玻璃
+钻石矿石 @ 2 = 钻石 (Mining)
+红石矿石 @ 2 = 红石粉 x4 (Mining)
+仙人掌 @ 1 = 仙人掌绿
+粘土块 @ 1 = 陶瓦 (Masonry)
+地狱岩 @ 1 = 地狱砖 (Masonry)
+绿宝石矿石 @ 2 = 绿宝石 (Mining)
+下界石英矿石 @ 2 = 下界石英 (Mining)
+铜矿石 @ 2 = 铜锭 (Mining)
+银矿石 @ 2 = 银锭 (Mining)
+秘银矿石 @ 3 = 秘银锭 (Mining)
+艾德曼矿石 @ 4 = 艾德曼锭 (Mining)
+生猪排 @ 1 = 熟猪排 (Food Preparation)
+粘土 @ 1 = 红砖 (Masonry)
+生鱼 @ 1 = 熟鱼 (Food Preparation)
+生牛肉 @ 1 = 熟牛肉 (Food Preparation)
+生鸡肉 @ 1 = 熟鸡肉 (Food Preparation)
+马铃薯 @ 1 = 烤马铃薯 (Food Preparation)
+生羊肉 @ 1 = 熟羊肉 (Food Preparation)
+面团 @ 1 = 面包 (Food Preparation)
+生鱼 @ 1 = 熟鱼 (large) (Food Preparation)
+虫子 @ 1 = 熟虫子 (Food Preparation)

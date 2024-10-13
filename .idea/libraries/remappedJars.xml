@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="remappedJars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/run/.fml/remappedJars/minecraft-merged-empty-intermediate-1.6.4-MITE-loom.mappings.1_6_4_MITE.layered+hash.2013565355-v2.jar-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fml/remappedJars/minecraft-merged-empty-intermediate-1.6.4-MITE-loom.mappings.1_6_4_MITE.layered+hash.298961184-v2.jar-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/run/.fml/remappedJars/minecraft-merged-empty-intermediate-1.6.4-MITE-loom.mappings.1_6_4_MITE.layered+hash.1418051714-v2.jar-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

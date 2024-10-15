@@ -9,8 +9,12 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 @Mixin(PlayerCapabilities.class)
 public class PlayerCapabilitiesMixin {
+    @Inject(method = "getFlySpeed",at=@At("RETURN"),cancellable = true)
+    private void getFlySpeed(CallbackInfoReturnable<Float> cir){
+        cir.setReturnValue(cir.getReturnValueF()*FunnierMITEConfig.FlySpeed.getSpeedValue());
+    }
     @Inject(method = "getWalkSpeed",at=@At("RETURN"),cancellable = true)
     private void getWalkSpeed(CallbackInfoReturnable<Float> cir){
-        cir.setReturnValue(cir.getReturnValueF()+cir.getReturnValueF()*FunnierMITEConfig.WalkSpeed.getIntegerValue()*0.1F);
+        cir.setReturnValue(cir.getReturnValueF()*FunnierMITEConfig.WalkSpeed.getSpeedValue());
     }
 }

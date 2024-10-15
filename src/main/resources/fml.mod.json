@@ -11,11 +11,15 @@
 	"description": "对游戏做出趣味的调整！一个精彩的挑战由你而生！",
 	"authors": ["mgdcm"],
 	"entrypoints": {
+		"preLaunch": [
+			"com.mgdcm.FunnierMITE.EarlyRiser"
+		],
 		"main": [
 			"com.mgdcm.FunnierMITE.Start"
 		]
 	},
 	"mixins": [
 		"funniermite.mixins.json"
-	]
+	],
+	"accessWidener": "FunnierMITE.accesswidener"
 }

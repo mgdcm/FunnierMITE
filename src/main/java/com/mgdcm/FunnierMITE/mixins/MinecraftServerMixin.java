@@ -13,6 +13,7 @@ public class MinecraftServerMixin {
     @Unique private static boolean b = false;
     @Inject(method = "tick",at=@At("HEAD"), cancellable = true)
     private void tickI(CallbackInfo ci){
+        if(FunnierMITEConfig.TimeStop.getBooleanValue())ci.cancel();
         if(!b) {
             b=true;
             for (int i = 0; i < FunnierMITEConfig.TimeSpeed.getIntegerValue() - 1; i++) {
